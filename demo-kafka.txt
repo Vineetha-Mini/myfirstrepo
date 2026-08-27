@@ -1,0 +1,1 @@
+array=["ganesh","ram","pardhu"]
